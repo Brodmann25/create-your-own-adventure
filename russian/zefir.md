@@ -12,3 +12,4 @@
 
 [Звоните в ЖЭК.](buildings-dep/buildings-dep.md)
 
+[Устроите истерику?](hysterics/hysterics.md)
